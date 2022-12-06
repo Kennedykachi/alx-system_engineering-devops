@@ -1,2 +1,2 @@
-#!/bin/bash
-echo 'This is a Test' | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+#!/bin/bash 
+/bin/sed y/abcdefghijklmnopqrstuvwxy  zABCDEFGHIJKLMNOPQRSTUVWXYZ/nopqr  stuvwxyzabcdefghijklmNOPQRSTUVWXY  ZABCDEFGHIJKLM/ "$1 | more'
