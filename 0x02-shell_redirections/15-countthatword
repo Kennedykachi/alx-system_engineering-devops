@@ -1,0 +1,2 @@
+#!/bib/bash
+agrep -C "bin" /etc/passwd
