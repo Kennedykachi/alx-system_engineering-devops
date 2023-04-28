@@ -1,6 +1,4 @@
 
-You have a captain's log due before 2023-04-30 (in 1 day)! Log it now!
-You just released the advanced tasks of this project. Have fun!
 0x05. Processes and signals
 DevOps
 Shell
