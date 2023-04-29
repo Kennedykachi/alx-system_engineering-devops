@@ -494,4 +494,4 @@ GitHub repository: alx-system_engineering-devops
 Directory: 0x04-loops_conditions_and_parsing
 File: 10-fizzbuzz
 
-BY: www.github.com/Kennedykachi
+BY: <a target="_blank" href="https://github.com/Kennedykachi">Kennedykachi</a>
