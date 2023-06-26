@@ -1,3 +1,7 @@
 #!/usr/bin/env bash
-# Creates an RSA key pair with the passphrase betty
-ssh-keygen -b school -b 5678 -N betty
+Generating public/private rsa key pair.
+My identification has been saved in school.
+Myr public key has been saved in school.pub.
+The key fingerprint is:
+ ssh-keygen -t rsa -b 4096 -C "betty""
+
